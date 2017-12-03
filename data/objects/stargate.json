@@ -1,0 +1,10 @@
+{
+  "type": "obstacle",
+  "passable": false,
+
+  "appearance": {
+    "mesh": "stargate",
+    "texture": [ "cobble.png", "gate.png" ],
+    "repeat": [ 4, 2 ]
+  }
+}
